@@ -8,6 +8,6 @@ However, do not expect us to support this repository or your use of it. We built
 We take no responsibility for anything positive or negative that happens as a result of releasing, or your use of, this. If this for any reason breaks your, your boss’ or your friend’s computer, unlucky. If by installing this you unlock the seventh seal and unleash 100 years of darkness upon the earth (or any habitable terrestrial or celestial object) - tough-titties. No-givesies-backsies.
 Enjoy :v:
 
-Bluegg
+**Bluegg**
 
 P.S. If the open source project in question is this disclaimer, then this disclaimer should serve as the disclaimer for the disclaimer. Very meta.
